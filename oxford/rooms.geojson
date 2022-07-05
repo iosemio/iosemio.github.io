@@ -3,223 +3,42 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1,
       "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "1",
-        "dwg_handle": "869",
-        "Layer": "Legend",
-        "Color": "red",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.29513671143,
-              37.8901690645112
+              -122.267712536307,
+              37.8766874416449,
+              0
             ],
             [
-              -122.295108993915,
-              37.8901694858859
+              -122.266788909651,
+              37.8767983224205,
+              0
             ],
             [
-              -122.295108661632,
-              37.8901557570168
+              -122.266538425192,
+              37.8746624875732,
+              0
             ],
             [
-              -122.295136379142,
-              37.8901553356421
+              -122.267465783054,
+              37.8745730896315,
+              0
             ],
             [
-              -122.29513671143,
-              37.8901690645112
-            ]
-          ]
-        ]
-      },
-      "id":"leg0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "2",
-        "dwg_handle": "868",
-        "Layer": "Legend",
-        "Color": "blue",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295137469026,
-              37.8902003654161
-            ],
-            [
-              -122.295109751498,
-              37.890200786791
-            ],
-            [
-              -122.295109419215,
-              37.8901870579219
-            ],
-            [
-              -122.295137136737,
-              37.8901866365471
-            ],
-            [
-              -122.295137469026,
-              37.8902003654161
-            ]
-          ]
-        ]
-      },
-      "id":"leg1"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "3",
-        "dwg_handle": "867",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295137801314,
-              37.890214094285
-            ],
-            [
-              -122.295110083782,
-              37.89021451566
-            ],
-            [
-              -122.295109751498,
-              37.890200786791
-            ],
-            [
-              -122.295137469026,
-              37.8902003654161
-            ],
-            [
-              -122.295137801314,
-              37.890214094285
-            ]
-          ]
-        ]
-      },
-      "id":"leg2"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "4",
-        "dwg_handle": "866",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295138133603,
-              37.8902278231539
-            ],
-            [
-              -122.295110416065,
-              37.8902282445289
-            ],
-            [
-              -122.295110083782,
-              37.89021451566
-            ],
-            [
-              -122.295137801314,
-              37.890214094285
-            ],
-            [
-              -122.295138133603,
-              37.8902278231539
-            ]
-          ]
-        ]
-      },
-      "id":"leg3"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "5",
-        "dwg_handle": "865",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295138465891,
-              37.8902415520228
-            ],
-            [
-              -122.295110748349,
-              37.8902419733979
-            ],
-            [
-              -122.295110416065,
-              37.8902282445289
-            ],
-            [
-              -122.295138133603,
-              37.8902278231539
-            ],
-            [
-              -122.295138465891,
-              37.8902415520228
+              -122.267712536307,
+              37.8766874416449,
+              0
             ]
           ]
         ]
@@ -227,43 +46,36 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "6",
-        "dwg_handle": "864",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
+      "id": 2,
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.29513879818,
-              37.8902552808916
+              -122.266737864223,
+              37.8749693431551,
+              0
             ],
             [
-              -122.295111080633,
-              37.8902557022668
+              -122.266662624104,
+              37.8749738712652,
+              0
             ],
             [
-              -122.295110748349,
-              37.8902419733979
+              -122.26664565366,
+              37.8748198715959,
+              0
             ],
             [
-              -122.295138465891,
-              37.8902415520228
+              -122.266718955145,
+              37.8748141271311,
+              0
             ],
             [
-              -122.29513879818,
-              37.8902552808916
+              -122.266737864223,
+              37.8749693431551,
+              0
             ]
           ]
         ]
@@ -271,43 +83,36 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "7",
-        "dwg_handle": "863",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
+      "id": 3,
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.295139130469,
-              37.8902690097604
+              -122.266991189133,
+              37.8749778522022,
+              0
             ],
             [
-              -122.295111412916,
-              37.8902694311356
+              -122.266783496369,
+              37.8749914805376,
+              0
             ],
             [
-              -122.295111080633,
-              37.8902557022668
+              -122.266744008074,
+              37.8746639432204,
+              0
             ],
             [
-              -122.29513879818,
-              37.8902552808916
+              -122.266953418363,
+              37.8746495215499,
+              0
             ],
             [
-              -122.295139130469,
-              37.8902690097604
+              -122.266991189133,
+              37.8749778522022,
+              0
             ]
           ]
         ]
@@ -315,43 +120,36 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "8",
-        "dwg_handle": "862",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
+      "id": 4,
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.295139462759,
-              37.8902827386291
+              -122.267411600686,
+              37.8746020350184,
+              0
             ],
             [
-              -122.2951117452,
-              37.8902831600044
+              -122.26706436678,
+              37.8746258881909,
+              0
             ],
             [
-              -122.295111412916,
-              37.8902694311356
+              -122.267078959153,
+              37.8747444571357,
+              0
             ],
             [
-              -122.295139130469,
-              37.8902690097604
+              -122.267425997051,
+              37.87471888835,
+              0
             ],
             [
-              -122.295139462759,
-              37.8902827386291
+              -122.267411600686,
+              37.8746020350184,
+              0
             ]
           ]
         ]
@@ -359,43 +157,36 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "9",
-        "dwg_handle": "861",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
+      "id": 5,
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.295139795048,
-              37.8902964674978
+              -122.267443940037,
+              37.8748714890428,
+              0
             ],
             [
-              -122.295112077485,
-              37.8902968888732
+              -122.267121747051,
+              37.8748934642383,
+              0
             ],
             [
-              -122.2951117452,
-              37.8902831600044
+              -122.267105469779,
+              37.8747664766309,
+              0
             ],
             [
-              -122.295139462759,
-              37.8902827386291
+              -122.267427574211,
+              37.874743706904,
+              0
             ],
             [
-              -122.295139795048,
-              37.8902964674978
+              -122.267443940037,
+              37.8748714890428,
+              0
             ]
           ]
         ]
@@ -403,43 +194,36 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "10",
-        "dwg_handle": "860",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
+      "id": 6,
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.295140127337,
-              37.8903101963665
+              -122.267515805259,
+              37.8754217394628,
+              0
             ],
             [
-              -122.295112409769,
-              37.8903106177419
+              -122.266710345031,
+              37.8754768797821,
+              0
             ],
             [
-              -122.295112077485,
-              37.8902968888732
+              -122.266670131278,
+              37.8750824860756,
+              0
             ],
             [
-              -122.295139795048,
-              37.8902964674978
+              -122.267470204779,
+              37.8750275586313,
+              0
             ],
             [
-              -122.295140127337,
-              37.8903101963665
+              -122.267515805259,
+              37.8754217394628,
+              0
             ]
           ]
         ]
@@ -447,43 +231,56 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "11",
-        "dwg_handle": "85F",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
+      "id": 7,
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.295140459627,
-              37.8903239252351
+              -122.267453821505,
+              37.8758705875992,
+              0
             ],
             [
-              -122.295112742053,
-              37.8903243466106
+              -122.266758252827,
+              37.8759164484424,
+              0
             ],
             [
-              -122.295112409769,
-              37.8903106177419
+              -122.266730379382,
+              37.8756671122673,
+              0
             ],
             [
-              -122.295140127337,
-              37.8903101963665
+              -122.266739362535,
+              37.8756671122673,
+              0
             ],
             [
-              -122.295140459627,
-              37.8903239252351
+              -122.266733070959,
+              37.8756129757909,
+              0
+            ],
+            [
+              -122.267381971211,
+              37.8755689909441,
+              0
+            ],
+            [
+              -122.267388259418,
+              37.8756228811205,
+              0
+            ],
+            [
+              -122.26742125027,
+              37.8756201090068,
+              0
+            ],
+            [
+              -122.267453821505,
+              37.8758705875992,
+              0
             ]
           ]
         ]
@@ -491,2527 +288,76 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "12",
-        "dwg_handle": "85E",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
+      "id": 8,
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -122.295140791916,
-              37.8903376541037
+              -122.26735153181,
+              37.8766764262281,
+              0
             ],
             [
-              -122.295113074338,
-              37.8903380754792
+              -122.267164537434,
+              37.876701642113,
+              0
             ],
             [
-              -122.295112742053,
-              37.8903243466106
+              -122.26716239522,
+              37.8766940278297,
+              0
             ],
             [
-              -122.295140459627,
-              37.8903239252351
+              -122.266836435721,
+              37.876733021507,
+              0
             ],
             [
-              -122.295140791916,
-              37.8903376541037
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "13",
-        "dwg_handle": "85D",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295141124206,
-              37.8903513829722
-            ],
-            [
-              -122.295113406622,
-              37.8903518043478
-            ],
-            [
-              -122.295113074338,
-              37.8903380754792
-            ],
-            [
-              -122.295140791916,
-              37.8903376541037
-            ],
-            [
-              -122.295141124206,
-              37.8903513829722
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "14",
-        "dwg_handle": "85C",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295141456496,
-              37.8903651118407
-            ],
-            [
-              -122.295113738907,
-              37.8903655332164
-            ],
-            [
-              -122.295113406622,
-              37.8903518043478
-            ],
-            [
-              -122.295141124206,
-              37.8903513829722
-            ],
-            [
-              -122.295141456496,
-              37.8903651118407
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "15",
-        "dwg_handle": "85B",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295141788786,
-              37.8903788407092
-            ],
-            [
-              -122.295114071192,
-              37.8903792620849
-            ],
-            [
-              -122.295113738907,
-              37.8903655332164
-            ],
-            [
-              -122.295141456496,
-              37.8903651118407
-            ],
-            [
-              -122.295141788786,
-              37.8903788407092
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "16",
-        "dwg_handle": "85A",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295142121076,
-              37.8903925695776
-            ],
-            [
-              -122.295114403477,
-              37.8903929909534
-            ],
-            [
-              -122.295114071192,
-              37.8903792620849
-            ],
-            [
-              -122.295141788786,
-              37.8903788407092
-            ],
-            [
-              -122.295142121076,
-              37.8903925695776
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "17",
-        "dwg_handle": "859",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295142453366,
-              37.8904062984459
-            ],
-            [
-              -122.295114735762,
-              37.8904067198218
-            ],
-            [
-              -122.295114403477,
-              37.8903929909534
-            ],
-            [
-              -122.295142121076,
-              37.8903925695776
-            ],
-            [
-              -122.295142453366,
-              37.8904062984459
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "18",
-        "dwg_handle": "858",
-        "Layer": "Legend",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295142785657,
-              37.8904200273143
-            ],
-            [
-              -122.295115068047,
-              37.8904204486902
-            ],
-            [
-              -122.295114735762,
-              37.8904067198218
-            ],
-            [
-              -122.295142453366,
-              37.8904062984459
-            ],
-            [
-              -122.295142785657,
-              37.8904200273143
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "19",
-        "dwg_handle": "162",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295769056233,
-              37.8902566544441
-            ],
-            [
-              -122.295774407777,
-              37.8903187525531
-            ],
-            [
-              -122.295662254145,
-              37.8903248229909
-            ],
-            [
-              -122.295663331288,
-              37.890337322127
-            ],
-            [
-              -122.295457103238,
-              37.8903484841647
-            ],
-            [
-              -122.295447651041,
-              37.890238797527
-            ],
-            [
-              -122.295678581479,
-              37.8902262984541
-            ],
-            [
-              -122.295681605397,
-              37.8902613878255
-            ],
-            [
-              -122.295769056233,
-              37.8902566544441
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "20",
-        "dwg_handle": "161",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.296043018105,
-              37.8902065724527
-            ],
-            [
-              -122.296050425394,
-              37.8902925212893
-            ],
-            [
-              -122.295821902974,
-              37.8903048907424
-            ],
-            [
-              -122.295822871514,
-              37.8903161293671
-            ],
-            [
-              -122.295776702492,
-              37.890318628348
-            ],
-            [
-              -122.295768326986,
-              37.89022144087
-            ],
-            [
-              -122.296043018105,
-              37.8902065724527
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "21",
-        "dwg_handle": "160",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295299616926,
-              37.8893820665479
-            ],
-            [
-              -122.295224975776,
-              37.8893972192101
-            ],
-            [
-              -122.295191302371,
-              37.8892930377336
-            ],
-            [
-              -122.295265943423,
-              37.8892778850921
-            ],
-            [
-              -122.295299616926,
-              37.8893820665479
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "22",
-        "dwg_handle": "15F",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.29521940554,
-              37.8893983500039
-            ],
-            [
-              -122.295144764357,
-              37.8894135026154
-            ],
-            [
-              -122.295111091056,
-              37.8893093211165
-            ],
-            [
-              -122.295185732142,
-              37.8892941685258
-            ],
-            [
-              -122.29521940554,
-              37.8893983500039
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "23",
-        "dwg_handle": "15E",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.29525961576,
-              37.8892517058244
-            ],
-            [
-              -122.295184974732,
-              37.8892668584621
-            ],
-            [
-              -122.295151301442,
-              37.8891626769714
-            ],
-            [
-              -122.295225942371,
-              37.8891475243546
-            ],
-            [
-              -122.29525961576,
-              37.8892517058244
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "24",
-        "dwg_handle": "15D",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.29516967087,
-              37.8892699652439
-            ],
-            [
-              -122.295095029806,
-              37.8892851178246
-            ],
-            [
-              -122.295061356633,
-              37.8891809363089
-            ],
-            [
-              -122.295135997599,
-              37.889165783749
-            ],
-            [
-              -122.29516967087,
-              37.8892699652439
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "25",
-        "dwg_handle": "15C",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295116708807,
-              37.8890796228361
-            ],
-            [
-              -122.295042067923,
-              37.8890947753842
-            ],
-            [
-              -122.295008394912,
-              37.8889905938494
-            ],
-            [
-              -122.295083035697,
-              37.8889754413221
-            ],
-            [
-              -122.295116708807,
-              37.8890796228361
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "26",
-        "dwg_handle": "15B",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295207840839,
-              37.8890611224131
-            ],
-            [
-              -122.295133199993,
-              37.8890762750189
-            ],
-            [
-              -122.295099526862,
-              37.8889720935095
-            ],
-            [
-              -122.29517416761,
-              37.8889569409245
-            ],
-            [
-              -122.295207840839,
-              37.8890611224131
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "27",
-        "dwg_handle": "15A",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.29595451423,
-              37.8900230875267
-            ],
-            [
-              -122.295976594555,
-              37.8900913984354
-            ],
-            [
-              -122.295936653991,
-              37.8900995068125
-            ],
-            [
-              -122.295912486754,
-              37.8900248823125
-            ],
-            [
-              -122.295924215885,
-              37.8900224966099
-            ],
-            [
-              -122.295926267878,
-              37.8900288328336
-            ],
-            [
-              -122.29595451423,
-              37.8900230875267
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "28",
-        "dwg_handle": "159",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.29581945626,
-              37.8894956294592
-            ],
-            [
-              -122.295838576447,
-              37.8895547832465
-            ],
-            [
-              -122.295707118766,
-              37.889581470592
-            ],
-            [
-              -122.295687998677,
-              37.8895223167839
-            ],
-            [
-              -122.29581945626,
-              37.8894956294592
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "29",
-        "dwg_handle": "158",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295581050767,
-              37.8900416491454
-            ],
-            [
-              -122.295598361387,
-              37.8900381282216
-            ],
-            [
-              -122.295597969993,
-              37.8900369173306
-            ],
-            [
-              -122.295654421364,
-              37.8900254568945
-            ],
-            [
-              -122.295676447133,
-              37.8900934696727
-            ],
-            [
-              -122.295602690943,
-              37.8901084714631
-            ],
-            [
-              -122.295581050767,
-              37.8900416491454
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "30",
-        "dwg_handle": "157",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295527394535,
-              37.8899845946433
-            ],
-            [
-              -122.295577948921,
-              37.8899743120535
-            ],
-            [
-              -122.295587192542,
-              37.8900028553128
-            ],
-            [
-              -122.295536638137,
-              37.8900131379066
-            ],
-            [
-              -122.295527394535,
-              37.8899845946433
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "31",
-        "dwg_handle": "156",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295548639412,
-              37.8898835794443
-            ],
-            [
-              -122.295508905422,
-              37.8898916667398
-            ],
-            [
-              -122.29550460447,
-              37.8898783858197
-            ],
-            [
-              -122.295493441542,
-              37.8898806563189
-            ],
-            [
-              -122.295484986256,
-              37.8898545471984
-            ],
-            [
-              -122.29549614918,
-              37.8898522766999
-            ],
-            [
-              -122.295493139545,
-              37.8898429832293
-            ],
-            [
-              -122.295532903466,
-              37.8898348953818
-            ],
-            [
-              -122.295548639412,
-              37.8898835794443
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "32",
-        "dwg_handle": "155",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295384531326,
-              37.8898182008986
-            ],
-            [
-              -122.295374482325,
-              37.8898202448198
-            ],
-            [
-              -122.295367173465,
-              37.8897976756143
-            ],
-            [
-              -122.2953788969,
-              37.8897952911205
-            ],
-            [
-              -122.295384629432,
-              37.8898129927346
-            ],
-            [
-              -122.295382954993,
-              37.8898133333079
-            ],
-            [
-              -122.295384531326,
-              37.8898182008986
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "33",
-        "dwg_handle": "154",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295372807048,
-              37.8898205855636
-            ],
-            [
-              -122.295364978131,
-              37.889822177929
-            ],
-            [
-              -122.2953646425,
-              37.8898211415255
-            ],
-            [
-              -122.295360745097,
-              37.8898219327234
-            ],
-            [
-              -122.295353772332,
-              37.8898004013425
-            ],
-            [
-              -122.295365498187,
-              37.889798016358
-            ],
-            [
-              -122.295372807048,
-              37.8898205855636
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "34",
-        "dwg_handle": "153",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295481508531,
-              37.8897649868393
-            ],
-            [
-              -122.295406744847,
-              37.889780193488
-            ],
-            [
-              -122.295374930152,
-              37.8896819521152
-            ],
-            [
-              -122.295449762887,
-              37.8896667314226
-            ],
-            [
-              -122.295481508531,
-              37.8897649868393
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "35",
-        "dwg_handle": "152",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295318062175,
-              37.8896074376595
-            ],
-            [
-              -122.295351313045,
-              37.8897101141886
-            ],
-            [
-              -122.295272379782,
-              37.8897261688316
-            ],
-            [
-              -122.295239331674,
-              37.8896234510609
-            ],
-            [
-              -122.295318062175,
-              37.8896074376595
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "36",
-        "dwg_handle": "151",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295378465388,
-              37.8897939668882
-            ],
-            [
-              -122.295351762659,
-              37.8897115108089
-            ],
-            [
-              -122.295317776499,
-              37.8897184203392
-            ],
-            [
-              -122.295272830958,
-              37.889727562037
-            ],
-            [
-              -122.295272829714,
-              37.8897275581941
-            ],
-            [
-              -122.295248663994,
-              37.8897324711703
-            ],
-            [
-              -122.295282504004,
-              37.8898371671964
-            ],
-            [
-              -122.295304043008,
-              37.8898327946522
-            ],
-            [
-              -122.295304240787,
-              37.8898334065489
-            ],
-            [
-              -122.295359068716,
-              37.8898222783037
-            ],
-            [
-              -122.295351791408,
-              37.8897993922534
-            ],
-            [
-              -122.295378465388,
-              37.8897939668882
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "37",
-        "dwg_handle": "150",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295977018864,
-              37.8900927111371
-            ],
-            [
-              -122.295984953643,
-              37.8901172592926
-            ],
-            [
-              -122.295853165823,
-              37.8901440136286
-            ],
-            [
-              -122.295847381105,
-              37.8901261513187
-            ],
-            [
-              -122.295845706612,
-              37.8901264919085
-            ],
-            [
-              -122.295846136374,
-              37.8901278189477
-            ],
-            [
-              -122.295754835033,
-              37.8901463894933
-            ],
-            [
-              -122.295751324418,
-              37.8901355492125
-            ],
-            [
-              -122.295761379177,
-              37.8901335040945
-            ],
-            [
-              -122.295760949391,
-              37.8901321769767
-            ],
-            [
-              -122.295750894632,
-              37.8901342220947
-            ],
-            [
-              -122.295743800721,
-              37.8901123170987
-            ],
-            [
-              -122.295782612156,
-              37.8901044229254
-            ],
-            [
-              -122.295789706077,
-              37.8901263279191
-            ],
-            [
-              -122.295780492614,
-              37.8901282019215
-            ],
-            [
-              -122.295780922401,
-              37.8901295290393
-            ],
-            [
-              -122.295842625746,
-              37.8901169786696
-            ],
-            [
-              -122.295843055483,
-              37.8901183056305
-            ],
-            [
-              -122.295844729975,
-              37.8901179650407
-            ],
-            [
-              -122.295836776515,
-              37.8900934059718
-            ],
-            [
-              -122.29592695328,
-              37.8900750640834
-            ],
-            [
-              -122.29593540919,
-              37.8901011745409
-            ],
-            [
-              -122.295977018864,
-              37.8900927111371
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "38",
-        "dwg_handle": "14F",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295896742237,
-              37.8899762657219
-            ],
-            [
-              -122.295915729616,
-              37.8899724115926
-            ],
-            [
-              -122.295923679179,
-              37.8899969585821
-            ],
-            [
-              -122.295904694195,
-              37.8900008201243
-            ],
-            [
-              -122.295896742237,
-              37.8899762657219
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "39",
-        "dwg_handle": "14E",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295917962103,
-              37.889971957505
-            ],
-            [
-              -122.295936753727,
-              37.8899681409545
-            ],
-            [
-              -122.29594468732,
-              37.8899926855264
-            ],
-            [
-              -122.295925911667,
-              37.8899965044943
-            ],
-            [
-              -122.295917962103,
-              37.889971957505
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "40",
-        "dwg_handle": "14D",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295711332021,
-              37.8900139038665
-            ],
-            [
-              -122.295894509552,
-              37.8899767198493
-            ],
-            [
-              -122.295925822207,
-              37.8900734083455
-            ],
-            [
-              -122.295742604912,
-              37.890110674592
-            ],
-            [
-              -122.295711332021,
-              37.8900139038665
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "41",
-        "dwg_handle": "14C",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295656653854,
-              37.8900250028118
-            ],
-            [
-              -122.295708580022,
-              37.890014466414
-            ],
-            [
-              -122.295730598162,
-              37.8900824554807
-            ],
-            [
-              -122.295678679625,
-              37.8900930155896
+              -122.266830069199,
+              37.8767000762589,
+              0
             ],
             [
-              -122.295656653854,
-              37.8900250028118
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "42",
-        "dwg_handle": "14B",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295524395471,
-              37.8901221559384
-            ],
-            [
-              -122.295520526131,
-              37.8901102078404
-            ],
-            [
-              -122.295530572796,
-              37.890108164389
-            ],
-            [
-              -122.29552064845,
-              37.8900775190916
-            ],
-            [
-              -122.29555234147,
-              37.8900710728524
-            ],
-            [
-              -122.295550621683,
-              37.8900657623435
-            ],
-            [
-              -122.295564017228,
-              37.890063037738
-            ],
-            [
-              -122.295558284824,
-              37.8900453367203
-            ],
-            [
-              -122.295578531681,
-              37.8900412185793
-            ],
-            [
-              -122.295612989995,
-              37.8901477235506
-            ],
-            [
-              -122.295531481446,
-              37.8901642703968
-            ],
-            [
-              -122.295518247793,
-              37.8901234063509
-            ],
-            [
-              -122.295524395471,
-              37.8901221559384
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "43",
-        "dwg_handle": "14A",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295529248687,
-              37.8901647236627
-            ],
-            [
-              -122.295408891508,
-              37.8901891569463
-            ],
-            [
-              -122.295393449094,
-              37.8901413809228
-            ],
-            [
-              -122.295398854009,
-              37.8901402815942
-            ],
-            [
-              -122.295396232401,
-              37.8901321863163
-            ],
-            [
-              -122.295425988846,
-              37.8901261340074
-            ],
-            [
-              -122.295426203913,
-              37.8901267981147
-            ],
-            [
-              -122.295430112581,
-              37.890126003111
-            ],
-            [
-              -122.295429324524,
-              37.8901235696682
-            ],
-            [
-              -122.295428487277,
-              37.8901237399602
-            ],
-            [
-              -122.295412559648,
-              37.8900745569584
-            ],
-            [
-              -122.295462274559,
-              37.8900644653245
-            ],
-            [
-              -122.295465548828,
-              37.8900745759405
-            ],
-            [
-              -122.29549792234,
-              37.8900679913076
-            ],
-            [
-              -122.295502221621,
-              37.8900812670338
-            ],
-            [
-              -122.295518974056,
-              37.8900778596567
-            ],
-            [
-              -122.295528468455,
-              37.8901071773269
-            ],
-            [
-              -122.295511716014,
-              37.8901105847053
-            ],
-            [
-              -122.29551214596,
-              37.8901119123327
-            ],
-            [
-              -122.295518851736,
-              37.8901105484055
-            ],
-            [
-              -122.295522291129,
-              37.8901211688762
-            ],
-            [
-              -122.295515585353,
-              37.8901225328036
-            ],
-            [
-              -122.295529248687,
-              37.8901647236627
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "44",
-        "dwg_handle": "149",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295554194026,
-              37.8899607482645
-            ],
-            [
-              -122.29557237739,
-              37.8899570498274
-            ],
-            [
-              -122.295577393323,
-              37.8899725384718
-            ],
-            [
-              -122.295559209955,
-              37.8899762369097
-            ],
-            [
-              -122.295554194026,
-              37.8899607482645
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "45",
-        "dwg_handle": "148",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295534934031,
-              37.8899646656814
-            ],
-            [
-              -122.295551961438,
-              37.8899612023654
-            ],
-            [
-              -122.295554827623,
-              37.8899700528354
-            ],
-            [
-              -122.295537800214,
-              37.8899735161518
-            ],
-            [
-              -122.295534934031,
-              37.8899646656814
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "46",
-        "dwg_handle": "147",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295515643087,
-              37.8899483073883
-            ],
-            [
-              -122.295566235107,
-              37.8899380171442
-            ],
-            [
-              -122.295571814206,
-              37.8899552777888
-            ],
-            [
-              -122.29553212014,
-              37.8899633514286
-            ],
-            [
-              -122.295537709271,
-              37.8899806100749
-            ],
-            [
-              -122.295526821329,
-              37.8899828246431
-            ],
-            [
-              -122.295515643087,
-              37.8899483073883
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "47",
-        "dwg_handle": "146",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295510197199,
-              37.8899314910355
-            ],
-            [
-              -122.295560800004,
-              37.8899211985976
-            ],
-            [
-              -122.295565805919,
-              37.889936689321
-            ],
-            [
-              -122.295515213129,
-              37.8899469797218
-            ],
-            [
-              -122.295510197199,
-              37.8899314910355
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "48",
-        "dwg_handle": "145",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295458468174,
-              37.8899420076548
-            ],
-            [
-              -122.29550796471,
-              37.8899319451155
-            ],
-            [
-              -122.295534405647,
-              37.890013591987
-            ],
-            [
-              -122.295484910537,
-              37.890023659099
-            ],
-            [
-              -122.295458468174,
-              37.8899420076548
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "49",
-        "dwg_handle": "144",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295549211576,
-              37.8898853496146
-            ],
-            [
-              -122.295560226823,
-              37.8899194286758
-            ],
-            [
-              -122.295496423175,
-              37.8899324012537
-            ],
-            [
-              -122.295485388164,
-              37.8898983262121
-            ],
-            [
-              -122.295549211576,
-              37.8898853496146
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "50",
-        "dwg_handle": "143",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295472120459,
-              37.8899180052303
-            ],
-            [
-              -122.295488314662,
-              37.8899147113923
-            ],
-            [
-              -122.295494190489,
-              37.8899328553736
-            ],
-            [
-              -122.295457894996,
-              37.8899402377325
-            ],
-            [
-              -122.295452879065,
-              37.8899247490046
-            ],
-            [
-              -122.295472980347,
-              37.8899206604854
-            ],
-            [
-              -122.295472120459,
-              37.8899180052303
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "51",
-        "dwg_handle": "142",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295464720604,
-              37.8899025299405
-            ],
-            [
-              -122.295446874591,
-              37.8899061597469
-            ],
-            [
-              -122.295452320455,
-              37.8899229760774
-            ],
-            [
-              -122.295470166472,
-              37.8899193462702
-            ],
-            [
-              -122.295464720604,
-              37.8899025299405
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "52",
-        "dwg_handle": "141",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295466975869,
-              37.8899020712286
-            ],
-            [
-              -122.295471561848,
-              37.8899162323032
-            ],
-            [
-              -122.29548774147,
-              37.8899129414309
-            ],
-            [
-              -122.295483155488,
-              37.889898780357
-            ],
-            [
-              -122.295466975869,
-              37.8899020712286
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "53",
-        "dwg_handle": "140",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295433337702,
-              37.889865052312
-            ],
-            [
-              -122.295482745574,
-              37.8898550029448
-            ],
-            [
-              -122.295491200859,
-              37.8898811120656
-            ],
-            [
-              -122.295441792971,
-              37.8898911614362
-            ],
-            [
-              -122.295433337702,
-              37.889865052312
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "54",
-        "dwg_handle": "13F",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295458104684,
-              37.8895280124372
-            ],
-            [
-              -122.295466511284,
-              37.8895540210877
-            ],
-            [
-              -122.295416606869,
-              37.8895641520822
-            ],
-            [
-              -122.2954171469,
-              37.8895658228534
-            ],
-            [
-              -122.295414288307,
-              37.8895664042812
-            ],
-            [
-              -122.295411780469,
-              37.8895586602582
-            ],
-            [
-              -122.295410106086,
-              37.8895590008218
-            ],
-            [
-              -122.295412613924,
-              37.8895667448449
-            ],
-            [
-              -122.295342255652,
-              37.8895810554464
-            ],
-            [
-              -122.295334373634,
-              37.889556716261
-            ],
-            [
-              -122.295404731885,
-              37.8895424056641
-            ],
-            [
-              -122.295407956363,
-              37.8895523626286
-            ],
-            [
-              -122.295409630746,
-              37.8895520220651
-            ],
-            [
-              -122.295405331511,
-              37.8895387463291
-            ],
-            [
-              -122.295458104684,
-              37.8895280124372
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "55",
-        "dwg_handle": "13E",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295394270395,
-              37.889510101297
-            ],
-            [
-              -122.295396778229,
-              37.8895178453205
-            ],
-            [
-              -122.295398452611,
-              37.8895175047571
-            ],
-            [
-              -122.295395944777,
-              37.8895097607336
-            ],
-            [
-              -122.295398835734,
-              37.889509172723
-            ],
-            [
-              -122.295399131888,
-              37.8895100872238
-            ],
-            [
-              -122.295449036272,
-              37.889499956236
-            ],
-            [
-              -122.295457691035,
-              37.8895266814852
-            ],
-            [
-              -122.295404901567,
-              37.8895374186915
-            ],
-            [
-              -122.295400602331,
-              37.8895241429456
-            ],
-            [
-              -122.295398927949,
-              37.889524483509
-            ],
-            [
-              -122.295402152427,
-              37.8895344404787
-            ],
-            [
-              -122.295331794184,
-              37.8895487510741
-            ],
-            [
-              -122.295323912173,
-              37.8895244118879
+              -122.266816675048,
+              37.8767012376898,
+              0
             ],
             [
-              -122.295394270395,
-              37.889510101297
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "56",
-        "dwg_handle": "13D",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295449332945,
-              37.8896654037949
-            ],
-            [
-              -122.295374500211,
-              37.8896806244873
-            ],
-            [
-              -122.295342685595,
-              37.8895823830843
-            ],
-            [
-              -122.295417576073,
-              37.8895671506479
-            ],
-            [
-              -122.295449332945,
-              37.8896654037949
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "57",
-        "dwg_handle": "13C",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295284235866,
-              37.8895029907501
-            ],
-            [
-              -122.295317630149,
-              37.8896061104341
-            ],
-            [
-              -122.29523875931,
-              37.8896221523795
-            ],
-            [
-              -122.295205414446,
-              37.8895189913466
+              -122.266807378322,
+              37.8766557360175,
+              0
             ],
             [
-              -122.295284235866,
-              37.8895029907501
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "58",
-        "dwg_handle": "13B",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295798909228,
-              37.8894320612059
-            ],
-            [
-              -122.295818029382,
-              37.8894912149973
-            ],
-            [
-              -122.295686571806,
-              37.8895179023204
-            ],
-            [
-              -122.29566745175,
-              37.8894587485082
-            ],
-            [
-              -122.295798909228,
-              37.8894320612059
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "59",
-        "dwg_handle": "13A",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.295865425653,
-              37.8896378488083
-            ],
-            [
-              -122.295884545913,
-              37.8896970025866
+              -122.266826085172,
+              37.8766538142364,
+              0
             ],
-            [
-              -122.295753087997,
-              37.889723689982
-            ],
-            [
-              -122.295733967834,
-              37.889664536183
-            ],
-            [
-              -122.295865425653,
-              37.8896378488083
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": null,
-        "description": null,
-        "altitudeMode": "clampToGround",
-        "extrude": 1,
-        "AdSPMKey": "60",
-        "dwg_handle": "139",
-        "Layer": "1st Floor",
-        "Color": "255,255,255",
-        "Linetype": "Continuous",
-        "Lineweight": "0",
-        "Hyperlink": "\n          ",
-        "Thickness": "0"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
             [
-              -122.295844878542,
-              37.8895742805648
+              -122.266825019031,
+              37.8766403681934,
+              0
             ],
             [
-              -122.295863998769,
-              37.8896334343471
+              -122.267109396685,
+              37.8766072244716,
+              0
             ],
             [
-              -122.295732540958,
-              37.8896601217202
+              -122.267113117849,
+              37.8766203727425,
+              0
             ],
             [
-              -122.295713420829,
-              37.8896009679171
+              -122.267333802687,
+              37.8765915736943,
+              0
             ],
             [
-              -122.295844878542,
-              37.8895742805648
+              -122.26735153181,
+              37.8766764262281,
+              0
             ]
           ]
         ]
