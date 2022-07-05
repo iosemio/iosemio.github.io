@@ -8,7 +8,7 @@
 <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
 
 <!-- Create an element where the map will take place -->
-<svg id="my_dataviz" width="1600" height="4000"></svg>
+<svg id="oxford" width="1600" height="4000"></svg>
 
 <script>
 
@@ -20,9 +20,9 @@ var svg = d3.select("svg"),
 // Map, projection, and centerpoint
 var path = d3.geoPath();
 var projection = d3.geoMercator()
-  .scale(59799950)
-  .center([-122.29576905,37.890256])
-  .translate([width / 3, height / 12]);
+  .scale(21294100)
+  .center([-122.2670629620552,37.87575108568346])
+  .translate([width / 3, height / 8]);
 
 // Data and color scale
 var data = d3.map();
