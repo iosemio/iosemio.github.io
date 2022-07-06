@@ -62,7 +62,7 @@ svg.append("g")
 var gradient = Gradient();
 
   function Gradient(){
-        var gradient = {};
+        var dispgradient = {};
 
         d3.select("body")
         .append("svg")
@@ -70,7 +70,7 @@ var gradient = Gradient();
         .attr("width", 300)
         .attr("height", 300)
         .append("circle").attr("cx", 150).attr("cy", 150).attr("r", 150).style("fill", "purple");
-        return gradient;
+        return dispgradient;
     }
 
 </script>
