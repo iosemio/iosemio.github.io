@@ -1,110 +1,112 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Semio Consulting & Computer Services Inc</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-    <meta charset="UTF-8">
-    <style>
-      @font-face {
-        font-family: 'Mono';
-        src: local('MonoLisa'), 
-        url(fonts/MonoLisa-Medium.woff2) format('woff2'),
-        url(fonts/MonoLisa-Medium.woff) format('woff'); 
-      }
-      html, body {
-        background-color: #708090;
-        color: #111;
-        text-align: center;
-        -webkit-font-smoothing: antialiased;
-        text-rendering: optimizeLegibility;
-      }
-      body {
-        font-family: "Mono", -apple-system, Helvetica, Arial, sans-serif;
-        font-size: 125%;
-      }
-      h1 {
-        font-weight: 500;
-        font-family: "Mono", -apple-system, Helvetica, Arial, sans-serif;
-      }
-      h3 {
-        font-weight: 300;
-      }
-      a, a:visited {
-        color: #444;
-      }
-      a:hover {
-        color: #111;
-      }
-      section {
-        padding-bottom: 2em;
-        margin: 0 auto;
-        text-align: left;
-        max-width: 800px;
-      }
-      p {
-        max-width: 80ch;
-        margin-bottom: 10 cm;
-      }
-      li {
-        list-style-type: circle;
-      }
+<head>
+  <title>Semio Technical Arts Inc</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/png" href="graphics/favicon.png">
+  <style>
+    @font-face {
+      font-family: 'Mono';
+      src: local('MonoLisa'),
+           url(fonts/MonoLisa-Medium.woff2) format('woff2'),
+           url(fonts/MonoLisa-Medium.woff) format('woff');
+    }
 
-     .button {
-        padding: 12px 24px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 100%;
-        margin: 4px 2px;
-        transition-duration: 0.2s;
-        border-radius: 12px;
-        cursor: pointer;
-        background-color: steelblue; 
-        color: black; 
-        border: 2px dashed #4CAF50;
-      }
+    html, body {
+      background-color: #708090;
+      color: #111;
+      text-align: center;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+      font-family: "Mono", -apple-system, Helvetica, Arial, sans-serif;
+      font-size: 100%;
+    }
 
-      .button {
-       
-      }
+    h1 { font-weight: 300; } 
 
-      .button:hover {
-        background-color: #4CAF50;
-        color: white;
-      } 
+    section {
+      padding-bottom: 2em;
+      margin: 0 auto;
+      text-align: left;
+      max-width: 800px;
+    }
 
-      .button:active {
-        background-color: darkolivegreen;
-        color: white;
-      } 
+    p { font-size: 86%; }
+    li { list-style-type: circle; }
 
-    </style>
-  </head>
-  <body>
-    <section id="content">
-      <h1><em><b>SEMIO.IO</b></em><img src="graphics/Io.png" alt="Io Moth" width="60"></h1>
-      
-      <h3>Semio Consulting & Computer Services Inc</h3>
+    .img { display: block; margin: auto; width: 30%; }
+    .svg { width: 100%; }
+    .footer { text-align: right; font-size: 100%; }
 
-      <li>  Patent drawing
-      <li>  Graphic design
-      <li>  Website development
-      <li>  BIM Management, 2- & 3d CAD
-      <li>  Technical & mechanical drawing
-      <li>  GIS maps, choropleth development
-      <li>  Computer typesetting & document design
-      <li>  Job costing & estimating, spreadsheet development
-      <li>  Innergy ERP Estimating & Library Management
+    .button {
+      display: block;
+      width: 100%;
+      padding: 12px 0;
+      text-align: center;
+      text-decoration: none;
+      font-family: inherit;
+      font-size: 100%;
+      font-style: italic;
+      margin: 4px 0;
+      border-radius: 12px;
+      border: 2px dashed #4CAF50;
+      background-color: steelblue;
+      color: black;
+      cursor: pointer;
+      transition: background-color 0.2s, color 0.2s;
+    }
 
-      <p>
-        <em>Semio supports the millwork, high-efficiency fenestration, and controlled environment agriculture industries.</em> 
-      </p>
-    </section>
-    <section id="buttons">
-      <a href="mailto:contact@semio@@io" onmouseover="this.href=this.href.replace('@@','.')"><button class="button">Contact</button></a>
-      <a onclick="window.open('','page','location=0,toolbar=0,...')" href="https://www.linkedin.com/in/david-wooten-semio" target="page"><button class="button">About</button></a>
-      <!-- Hello, friend. -->
-    </section>
+    .button:hover  { background-color: #4CAF50;     color: white; }
+    .button:active { background-color: darkolivegreen; color: white; }
+  </style>
+</head>
 
-  </body>
+<body>
+  <section id="content">
+    <a href="http://semio.io"><img src="graphics/Io.png" alt="Io Moth" class="img"></a>
+    <a href="http://semio.io"><img src="graphics/STAI.svg" alt="Semio Technical Arts Inc" class="svg"></a>
+
+    <ul>
+      <li><b>Millwork Estimating</b>
+        <ul>
+          <li>Innergy ERP estimating &amp; library management</li>
+          <li>Job costing, spreadsheet development</li>
+        </ul>
+      </li>
+      <li><b>Typesetting</b>
+        <ul>
+          <li>Text document design &amp; typesetting</li>
+          <li>Art book design &amp; typesetting</li>
+          <li>Musical score typesetting</li>
+        </ul>
+      </li>
+      <li><b>Graphic Design</b>
+        <ul>
+          <li>Manual &amp; Computer Aided Drafting</li>
+          <li>Patent, technical, &amp; mechanical drawing</li>
+        </ul>
+      </li>
+      <li><b>Website Development &amp; Maintenance</b></li>
+      <li><b>Woodworking Machine & Tooling Consultation</b>
+        <ul>
+          <li>European door &amp; window multipoint hardware</li>
+          </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <a href="mailto:contact@semio@@io" class="button"
+       onmouseover="this.href=this.href.replace('@@','.')"
+       onclick="this.href=this.href.replace('@@','.')">
+      <em>Contact</em>
+    </a>
+    <!-- Hello, friend. -->
+  </section>
+
+  <section id="footer" class="footer">
+    <p>semio technical arts inc // semio.io // est 2015</p>
+  </section>
+</body>
 </html>
